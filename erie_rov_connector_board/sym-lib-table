@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "16PK4700MEFC12_5X25")(type "KiCad")(uri "${KIPRJMOD}/project_libraries/16PK4700MEFC12_5X25/KiCADv6/2024-12-30_21-31-11.kicad_sym")(options "")(descr ""))
+)

@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "BU2032SM_HD_G")(type "KiCad")(uri "${KIPRJMOD}/project_libraries/BU2032SM_HD_G/BU2032SM-HD-G.kicad_sym")(options "")(descr ""))
+)
